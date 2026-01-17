@@ -1,0 +1,15 @@
+/* style.css */
+h1 {
+  color: darkblue;
+  text-align: center;
+}
+
+p {
+  font-size: 16px;
+  color: black;
+}
+
+.highlight {
+  background-color: yellow;
+  font-weight: bold;
+}
