@@ -1,15 +1,20 @@
 /* style.css */
 h1 {
-  color: darkblue;
+  color: red;
   text-align: center;
 }
 
+/* Italic gemaakt  */
 p {
   font-size: 16px;
   color: black;
+  font-style: italic;
 }
 
+/* Lijn toegevoegd */
 .highlight {
   background-color: yellow;
   font-weight: bold;
+  border: 2px solid black;
 }
+
